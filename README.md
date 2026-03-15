@@ -1,9 +1,7 @@
 # BP_programovaci_a_skriptovaci_jazyky_pro_web
 
-====================================================================
 DOKUMENTACE K MĚŘICÍM SKRIPTŮM - BAKALÁŘSKÁ PRÁCE
 Autor: Filip Blažek
-====================================================================
 
 Tento archiv obsahuje kompletní zdrojové kódy pro reprodukci zátěžových 
 testů popsaných v praktické části bakalářské práce.

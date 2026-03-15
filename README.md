@@ -1,6 +1,6 @@
 # BP_programovaci_a_skriptovaci_jazyky_pro_web
 
-DOKUMENTACE K MĚŘICÍM SKRIPTŮM - BAKALÁŘSKÁ PRÁCE
+DOKUMENTACE K MĚŘÍCÍM SKRIPTŮM - BAKALÁŘSKÁ PRÁCE
 
 Autor: Filip Blažek
 
